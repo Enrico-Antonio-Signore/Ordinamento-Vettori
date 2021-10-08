@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ssFt65gyuovpg2/hwrkR8DGTXdEw/YZS6Ji3yMwo8zcpKa8X0l+cL/Tx9JmgQqBlDNuo0iQCTqfulfiMbszdsQ==",
+  "dgSpecHash": "gLwXncLLNaOXWQtaAke6IUhhWCoM0IG9Wp4cLflXOvyVLWflHaP9A0RAttnQ28BAX6ud4/8RfnWX5t+mJ9pTHQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\asus f556uj\\Documents\\OrdinamentoVettori\\OrdinamentoVettori\\OrdinamentoVettori\\OrdinamentoVettori.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\enrico.signore.ITT\\Desktop\\Git 08-10-2021\\OrdinamentoVettori\\OrdinamentoVettori\\OrdinamentoVettori\\OrdinamentoVettori.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\enrico.signore.ITT\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
   "logs": []
 }

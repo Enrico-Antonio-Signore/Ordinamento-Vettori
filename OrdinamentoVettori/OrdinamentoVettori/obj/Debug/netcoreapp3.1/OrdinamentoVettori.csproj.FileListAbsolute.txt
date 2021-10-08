@@ -24,3 +24,16 @@ C:\Users\prof.lucchi\Documents\Ov1\OrdinamentoVettori\OrdinamentoVettori\Ordinam
 C:\Users\prof.lucchi\Documents\Ov1\OrdinamentoVettori\OrdinamentoVettori\OrdinamentoVettori\obj\Debug\netcoreapp3.1\OrdinamentoVettori.dll
 C:\Users\prof.lucchi\Documents\Ov1\OrdinamentoVettori\OrdinamentoVettori\OrdinamentoVettori\obj\Debug\netcoreapp3.1\OrdinamentoVettori.pdb
 C:\Users\prof.lucchi\Documents\Ov1\OrdinamentoVettori\OrdinamentoVettori\OrdinamentoVettori\obj\Debug\netcoreapp3.1\OrdinamentoVettori.genruntimeconfig.cache
+C:\Users\enrico.signore.ITT\Desktop\Git 08-10-2021\OrdinamentoVettori\OrdinamentoVettori\OrdinamentoVettori\bin\Debug\netcoreapp3.1\OrdinamentoVettori.exe
+C:\Users\enrico.signore.ITT\Desktop\Git 08-10-2021\OrdinamentoVettori\OrdinamentoVettori\OrdinamentoVettori\bin\Debug\netcoreapp3.1\OrdinamentoVettori.deps.json
+C:\Users\enrico.signore.ITT\Desktop\Git 08-10-2021\OrdinamentoVettori\OrdinamentoVettori\OrdinamentoVettori\bin\Debug\netcoreapp3.1\OrdinamentoVettori.runtimeconfig.json
+C:\Users\enrico.signore.ITT\Desktop\Git 08-10-2021\OrdinamentoVettori\OrdinamentoVettori\OrdinamentoVettori\bin\Debug\netcoreapp3.1\OrdinamentoVettori.runtimeconfig.dev.json
+C:\Users\enrico.signore.ITT\Desktop\Git 08-10-2021\OrdinamentoVettori\OrdinamentoVettori\OrdinamentoVettori\bin\Debug\netcoreapp3.1\OrdinamentoVettori.dll
+C:\Users\enrico.signore.ITT\Desktop\Git 08-10-2021\OrdinamentoVettori\OrdinamentoVettori\OrdinamentoVettori\bin\Debug\netcoreapp3.1\OrdinamentoVettori.pdb
+C:\Users\enrico.signore.ITT\Desktop\Git 08-10-2021\OrdinamentoVettori\OrdinamentoVettori\OrdinamentoVettori\obj\Debug\netcoreapp3.1\OrdinamentoVettori.csproj.AssemblyReference.cache
+C:\Users\enrico.signore.ITT\Desktop\Git 08-10-2021\OrdinamentoVettori\OrdinamentoVettori\OrdinamentoVettori\obj\Debug\netcoreapp3.1\OrdinamentoVettori.AssemblyInfoInputs.cache
+C:\Users\enrico.signore.ITT\Desktop\Git 08-10-2021\OrdinamentoVettori\OrdinamentoVettori\OrdinamentoVettori\obj\Debug\netcoreapp3.1\OrdinamentoVettori.AssemblyInfo.cs
+C:\Users\enrico.signore.ITT\Desktop\Git 08-10-2021\OrdinamentoVettori\OrdinamentoVettori\OrdinamentoVettori\obj\Debug\netcoreapp3.1\OrdinamentoVettori.csproj.CoreCompileInputs.cache
+C:\Users\enrico.signore.ITT\Desktop\Git 08-10-2021\OrdinamentoVettori\OrdinamentoVettori\OrdinamentoVettori\obj\Debug\netcoreapp3.1\OrdinamentoVettori.dll
+C:\Users\enrico.signore.ITT\Desktop\Git 08-10-2021\OrdinamentoVettori\OrdinamentoVettori\OrdinamentoVettori\obj\Debug\netcoreapp3.1\OrdinamentoVettori.pdb
+C:\Users\enrico.signore.ITT\Desktop\Git 08-10-2021\OrdinamentoVettori\OrdinamentoVettori\OrdinamentoVettori\obj\Debug\netcoreapp3.1\OrdinamentoVettori.genruntimeconfig.cache
